@@ -19,7 +19,7 @@
 ---
 
 ### Table of Contents
-
+## By Mudassir Alam
 | No. | Questions |
 |---- | ---------
 |1 | [What is Angular Framework?](#what-is-angular-framework)|
